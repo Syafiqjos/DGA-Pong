@@ -1,2 +1,3 @@
 # DGA-PONG
-### Ahmad Syafiq Aqil Wafi
+### Oleh :
+Ahmad Syafiq Aqil Wafi
